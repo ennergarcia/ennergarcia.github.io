@@ -24,7 +24,7 @@ Trabalho com:
 
 ## Projetos
 
-Em meu portfólio, você pode encontrar projetos que demonstram minhas habilidades. [Link para a seção de projetos no seu site]
+Em meu portfólio, você pode encontrar projetos que demonstram minhas habilidades. [ennergarcia.github.io/](https://ennergarcia.github.io/)
 
 ## Contato
 
