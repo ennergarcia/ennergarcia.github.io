@@ -1,4 +1,4 @@
-# Enner Garcia - Portfólio
+# Enner Sebastião Garcia
 
 Olá! Eu sou Enner Sebastião Garcia, um profissional de dados com experiência em Análise de Dados, Ciência de Dados e Engenharia de Dados. Meu principal objetivo é transformar grandes volumes de dados em informações úteis e relevantes para a tomada de decisões, utilizando técnicas de estatística, programação e visualização.
 
